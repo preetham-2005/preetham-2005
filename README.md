@@ -1,31 +1,31 @@
 # 💻 Welcome to Preetham Kotagiri's Portfolio!
 
 <div align="center">
-  
-  <!-- Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=KOTAGIRI+PREETHAM;Software+Engineer;Python+%2F+Java;Full+Stack+Developer" alt="Typing SVG" />
 
-  <p align="center">
-    <strong>Building robust, scalable applications and engineering analytical solutions.</strong>
-  </p>
+<!-- Typing Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=KOTAGIRI+PREETHAM;Software+Engineer;Python+%2F+Java;Full+Stack+Developer" alt="Typing SVG" />
 
-  <!-- Visitor Counter and Social Badges -->
-  <p align="center">
-    <!-- Hits Counter -->
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpreetham-2005%2Fpreetham-2005&count_bg=%2300F5FF&title_bg=%2320232A&title=VIEWS&edge_flat=true" alt="Profile Views" />
-    
-    <a href="https://linkedin.com/in/preetham-kotagiri" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    
-    <a href="mailto:preetham.kotagiri2005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    
-    <a href="https://github.com/preetham-2005/my-portfolio" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=flat-square&logo=github&logoColor=black" alt="Portfolio Repository" />
-    </a>
-  </p>
+<p align="center">
+<strong>Building robust, scalable applications and engineering analytical solutions.</strong>
+</p>
+
+<!-- Visitor Counter and Social Badges -->
+<p align="center">
+<!-- Hits Counter -->
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpreetham-2005%2Fpreetham-2005&count_bg=%2300F5FF&title_bg=%2320232A&title=VIEWS&edge_flat=true" alt="Profile Views" />
+
+<a href="https://linkedin.com/in/preetham-kotagiri" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:preetham.kotagiri2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/preetham-2005/my-portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00F5FF?style=flat-square&logo=github&logoColor=black" alt="Portfolio Repository" />
+</a>
+</p>
 </div>
 
 ---

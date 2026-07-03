@@ -3,23 +3,27 @@
 <div align="center">
   
   <!-- Typing Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=KOTAGIRI+PREETHAM;Software+Engineer;Full+Stack+%2F+Cloud;AI+%2F+ML+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=KOTAGIRI+PREETHAM;Software+Engineer;Python+%2F+Java;Full+Stack+Developer" alt="Typing SVG" />
 
   <p align="center">
-    <strong>Building robust, scalable applications and designing secure, cloud-native intelligence.</strong>
+    <strong>Building robust, scalable applications and engineering analytical solutions.</strong>
   </p>
 
   <!-- Visitor Counter and Social Badges -->
   <p align="center">
-    <img src="https://komarev.com/normal-badge/?username=preetham-2005&color=00f5ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <!-- Hits Counter -->
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpreetham-2005%2Fpreetham-2005&count_bg=%2300F5FF&title_bg=%2320232A&title=VIEWS&edge_flat=true" alt="Profile Views" />
+    
     <a href="https://linkedin.com/in/preetham-kotagiri" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    
     <a href="mailto:preetham.kotagiri2005@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://preetham-portfolio.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=flat-square&logo=react&logoColor=black" alt="Portfolio Website" />
+    
+    <a href="https://github.com/preetham-2005/my-portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=flat-square&logo=github&logoColor=black" alt="Portfolio Repository" />
     </a>
   </p>
 </div>
@@ -28,12 +32,11 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineering Student** at **VIT Vellore** (Class of 2026) specializing in high-performance application architectures, full-stack systems, and security intelligence. I combine a strong foundation in computer science with cloud technologies to build end-to-end applications that are performant, resilient, and highly secure.
+I am a **Software Engineering Student** at **VIT Vellore** (Class of 2026) specializing in high-performance application architectures, full-stack systems, and data-driven analysis. I focus on writing clean, modular code and implementing structured software engineering designs.
 
 * **🔭 I’m currently working on**: Enhancing `cyber-attack-log-analyzer` to integrate unsupervised anomaly detection using Isolation Forests.
-* **🎓 Education**: Integrated M.Tech in Computer Science and Engineering at Vellore Institute of Technology (VIT), Vellore (GPA: 9.1/10).
-* **🎯 Goals for 2026**: Transitioning into full-time Software Engineering roles, building distributed cloud architectures, and contributing to core open-source projects.
-* **💡 Fun Fact**: I love analyzing raw log dumps to understand how network protocols break, and I code with a cup of dark roasted coffee.
+* **🎓 Education**: Integrated M.Tech in Computer Science and Engineering at Vellore Institute of Technology (VIT), Vellore.
+* **🎯 Goals**: Building robust tools, exploring machine learning anomaly models, and writing comprehensive software test suites.
 
 ---
 
@@ -52,39 +55,23 @@ I am a **Software Engineering Student** at **VIT Vellore** (Class of 2026) speci
     </td>
     <td width="50%" valign="top">
       <h4>⚡ Frameworks & Libraries</h4>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🗄️ Databases</h4>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
     </td>
     <td width="50%" valign="top">
-      <h4>☁️ Cloud & DevOps</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+      <h4>⚙️ Developer Tools</h4>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
     </td>
   </tr>
 </table>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=preetham-2005&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -106,7 +93,7 @@ I am a **Software Engineering Student** at **VIT Vellore** (Class of 2026) speci
       </td>
       <td width="50%" valign="top">
         <h3>🌿 NGO Impact System</h3>
-        <p>A Java-based enterprise tracking application designed to measure, analyze, and report socio-economic NGO impacts. Implements structured architectures, relational databases, and automated analytical reporting.</p>
+        <p>A Java-based enterprise tracking application designed to measure, analyze, and report socio-economic NGO impacts. Implements structured architectures, relational databases, and JDBC database access.</p>
         <p>
           <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -154,11 +141,9 @@ I am a **Software Engineering Student** at **VIT Vellore** (Class of 2026) speci
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetham-2005&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=preetham-2005&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="Activity Graph" width="400" />
+      <td colspan="2" align="center">
+        <br />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=preetham-2005&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="Activity Graph" width="600" />
       </td>
     </tr>
   </table>
@@ -169,27 +154,20 @@ I am a **Software Engineering Student** at **VIT Vellore** (Class of 2026) speci
 ### 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://github.com/preetham-2005/preetham-2005/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <!-- Generated dynamically by GitHub Actions workflow -->
+  <img src="https://raw.githubusercontent.com/preetham-2005/preetham-2005/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
 
-### 🛡️ Certifications & Accomplishments
-* **AWS Certified Cloud Practitioner** (Validation ID: AWS-CCP-PREETHAM)
-* **Python for Data Science & AI** - IBM/Coursera
-* **Java Enterprise Programming Foundations** - Oracle Academy
-* **Top 15% Rank** inside collegiate programming hackathons at VIT Vellore.
-
----
-
 ### 🤝 Open Source & Collaboration
-I actively advocate for clean code, solid documentation, and testing. If you have an open-source tool, API service, or web interface that you want audited or built:
+I actively advocate for clean code, solid documentation, and testing. If you want to connect or collaborate:
 * 📪 Reach out to me: **preetham.kotagiri2005@gmail.com**
-* 💬 Ask me about: **Software Architecture, Security Log Architectures, REST APIs, Spring Boot, Python Anomaly Models**
+* 💬 Ask me about: **Software Development, Python Log Parsers, Java Applications, and Streamlit Dashboards**
 
 ---
 
 <div align="center">
   <p>🚀 <i>"Simplicity is the soul of efficiency." — Austin Freeman</i> 🚀</p>
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=5,00f5ff,9b51e0&height=100&section=footer&text=Keep%20Coding%20&fontSize=20&fontColor=ffffff" alt="Footer Render" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,00f5ff,9b51e0&height=100&section=footer&text=Keep%20Coding%20&fontSize=20&fontColor=ffffff" alt="Footer Render" />
 </div>

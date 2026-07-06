@@ -574,29 +574,9 @@ Currently improving knowledge in:
 | ⚡ Development Style | Scalable • Modular • Performance Focused |
 | 🔥 Current Focus | Backend Engineering • Data Science • Enterprise Software |
 
----
 
-# GitHub Profile Summary
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preetham-2005&theme=tokyonight" alt="Profile Details"/>
-</div>
 
-<br>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preetham-2005&theme=tokyonight" alt="Repos Per Language"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=preetham-2005&theme=tokyonight" alt="Most Commit Language"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preetham-2005&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preetham-2005&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
-</div>
 
 ---
 
@@ -616,14 +596,7 @@ Currently improving knowledge in:
   <img src="https://raw.githubusercontent.com/preetham-2005/preetham-2005/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
----
 
-# Development Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=preetham-2005&theme=tokyonight" alt="Stats Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preetham-2005&theme=tokyonight&utcOffset=5.5" alt="Productive Time Card"/>
-</div>
 
 ---
 

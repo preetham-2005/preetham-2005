@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:9D4EDD,100:C77DFF&text=Kotagiri%20Preetham&fontColor=ffffff&fontAlignY=38&fontSize=48&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,25:6A0DAD,50:7B2CBF,75:9D4EDD,100:C77DFF&text=Kotagiri%20Preetham&fontColor=ffffff&fontAlignY=38&fontSize=48&desc=Backend%20Developer%20%7C%20Data%20Analyst%20%7C%20Data%20Scientist&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Integrated+M.Tech+Computer+Science+Student;Software+Engineer;AI%2FML+Developer;Backend+Developer;Full+Stack+Developer;Data+Analytics+Enthusiast;Building+Scalable+Applications;Always+Learning+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=900&lines=Integrated+M.Tech+Computer+Science+Student;Software+Engineer;Backend+Developer;Data+Analyst;Data+Scientist;Building+Scalable+Applications;Always+Learning+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -48,11 +48,11 @@
 
 I'm **Kotagiri Preetham**, an Integrated **M.Tech Computer Science & Engineering** student at **VIT-AP University** with a passion for designing scalable software systems, intelligent applications, and data-driven solutions.
 
-My interests span **Software Engineering**, **Artificial Intelligence**, **Backend Development**, **Full Stack Development**, and **Data Analytics**. I enjoy solving real-world problems by combining strong computer science fundamentals with practical engineering principles.
+My interests span **Software Engineering**, **Backend Development**, **Data Science**, and **Data Analytics**. I enjoy solving real-world problems by combining strong computer science fundamentals with practical engineering principles.
 
 I have built projects involving **enterprise software development**, **computer vision**, **machine learning**, **REST APIs**, **database optimization**, and **business intelligence dashboards**. My development approach focuses on writing clean, maintainable, and scalable code while continuously improving system performance and user experience.
 
-I am actively preparing for **Software Engineering**, **Backend Development**, **AI/ML**, and **Data Analytics** internships and full-time opportunities for the **2027 graduating batch**.
+I am actively preparing for **Software Engineering**, **Backend Development**, **Data Science**, and **Data Analytics** internships and full-time opportunities for the **2027 graduating batch**.
 
 ---
 
@@ -60,8 +60,7 @@ I am actively preparing for **Software Engineering**, **Backend Development**, *
 
 - Software Engineering Internships
 - Backend Development
-- Full Stack Development
-- AI / Machine Learning
+- Data Science
 - Data Analytics
 - Open Source Contributions
 - Research Collaborations
@@ -372,7 +371,7 @@ Designed a predictive analytics platform for IT Service Management (ITSM) using 
 **Integrated M.Tech (Computer Science & Engineering)**  
 **VIT-AP University** • *2022 – 2027*
 
-Currently pursuing an Integrated M.Tech in Computer Science & Engineering with a strong focus on **Software Engineering, Artificial Intelligence, Backend Development, System Design, and Data Analytics**. Throughout my academic journey, I have built multiple production-style applications emphasizing scalability, clean architecture, and real-world problem solving.
+Currently pursuing an Integrated M.Tech in Computer Science & Engineering with a strong focus on **Software Engineering, Backend Development, Data Science, and Data Analytics**. Throughout my academic journey, I have built multiple production-style applications emphasizing scalability, clean architecture, and real-world problem solving.
 
 ### Areas of Expertise
 
@@ -541,8 +540,7 @@ Currently improving knowledge in:
 
 - Software Engineer Internships (2027)
 - Backend Developer Roles
-- AI/ML Engineer Roles
-- Full Stack Developer Roles
+- Data Scientist Roles
 - Data Analytics & Business Intelligence Roles
 - Product-Based Company Interviews
 - Technical Coding Assessments
@@ -567,16 +565,14 @@ Currently improving knowledge in:
 
 # GitHub Insights
 
-<div align="center">
-  | Metric | Description |
-  |---------|-------------|
-  | 🚀 Repository Quality | Clean Architecture & Production-ready Projects |
-  | 💻 Primary Languages | Java • Python • SQL • JavaScript |
-  | 🧠 Core Strengths | Software Engineering • AI/ML • Backend |
-  | 📊 Data Analytics | Power BI • SQL • Python |
-  | ⚡ Development Style | Scalable • Modular • Performance Focused |
-  | 🔥 Current Focus | Backend Engineering • AI Systems • Enterprise Software |
-</div>
+| Metric | Description |
+|---------|-------------|
+| 🚀 Repository Quality | Clean Architecture & Production-ready Projects |
+| 💻 Primary Languages | Java • Python • SQL • JavaScript |
+| 🧠 Core Strengths | Software Engineering • Backend • Data Science |
+| 📊 Data Analytics | Power BI • SQL • Python |
+| ⚡ Development Style | Scalable • Modular • Performance Focused |
+| 🔥 Current Focus | Backend Engineering • Data Science • Enterprise Software |
 
 ---
 
@@ -612,13 +608,7 @@ Currently improving knowledge in:
 
 ---
 
-# Contribution Calendar
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/7B2CBF/preetham-2005" alt="GitHub Contribution Chart"/>
-</div>
-
----
 
 # Contribution Snake
 
@@ -639,17 +629,15 @@ Currently improving knowledge in:
 
 # Development Philosophy
 
-<div align="center">
-  | Principle | Description |
-  |-----------|-------------|
-  | 🏗️ Clean Code | Write maintainable, readable, and modular software |
-  | ⚡ Performance | Optimize algorithms, APIs, and database queries |
-  | 🔒 Security | Build secure applications with proper authentication and validation |
-  | 📈 Scalability | Design systems that grow with increasing users and data |
-  | 🧪 Testing | Emphasize debugging, validation, and reliable software |
-  | 🤝 Collaboration | Use Git, GitHub, and Agile practices for effective teamwork |
-  | 📚 Continuous Learning | Keep improving through projects, research, and certifications |
-</div>
+| Principle | Description |
+|-----------|-------------|
+| 🏗️ Clean Code | Write maintainable, readable, and modular software |
+| ⚡ Performance | Optimize algorithms, APIs, and database queries |
+| 🔒 Security | Build secure applications with proper authentication and validation |
+| 📈 Scalability | Design systems that grow with increasing users and data |
+| 🧪 Testing | Emphasize debugging, validation, and reliable software |
+| 🤝 Collaboration | Use Git, GitHub, and Agile practices for effective teamwork |
+| 📚 Continuous Learning | Keep improving through projects, research, and certifications |
 
 ---
 
@@ -657,9 +645,8 @@ Currently improving knowledge in:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Software%20Engineering-6A0DAD?style=for-the-badge" alt="Software Engineering"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7B2CBF?style=for-the-badge" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Data%20Science-7B2CBF?style=for-the-badge" alt="Data Science"/>
   <img src="https://img.shields.io/badge/Backend%20Development-5A189A?style=for-the-badge" alt="Backend Development"/>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-4B0082?style=for-the-badge" alt="Full Stack Development"/>
   <img src="https://img.shields.io/badge/Data%20Analytics-3C096C?style=for-the-badge" alt="Data Analytics"/>
   <img src="https://img.shields.io/badge/System%20Design-240046?style=for-the-badge" alt="System Design"/>
   <img src="https://img.shields.io/badge/Open%20Source-7209B7?style=for-the-badge" alt="Open Source"/>
@@ -674,12 +661,12 @@ Currently improving knowledge in:
 ✔ Master Data Structures & Algorithms
 ✔ Build Enterprise Software Projects
 ✔ Strengthen Backend Development Skills
-✔ Advance in AI/ML and Computer Vision
+✔ Advance in Data Science & Machine Learning
 ✔ Learn System Design & Microservices
 ✔ Contribute to Open Source
 ✔ Earn Cloud Certifications (AWS/Azure)
 ✔ Secure a Software Engineering Internship
-✔ Transition into a Product-Based Software Engineering Role
+✔ Transition into a Backend Engineer or Data Scientist Role
 ```
 
 ---
@@ -709,8 +696,7 @@ currently_learning:
 
 currently_building:
   - Enterprise Backend Applications
-  - AI-Powered Software Solutions
-  - Full Stack Web Applications
+  - Data Science Analytics Models
   - Data Analytics Dashboards
   - RESTful APIs
   - Open Source Projects
@@ -725,10 +711,9 @@ exploring:
 
 career_goal:
   role:
-    - Software Engineer
     - Backend Engineer
-    - AI/ML Engineer
-    - Full Stack Developer
+    - Data Analyst
+    - Data Scientist
 
 open_to:
   - Internship Opportunities
@@ -838,19 +823,17 @@ If you have an exciting project or opportunity, feel free to reach out!
 
 # Recruiter Snapshot
 
-<div align="center">
-  | Focus Area | Highlights |
-  |------------|------------|
-  | 🎓 Education | Integrated M.Tech (Computer Science & Engineering), VIT-AP University |
-  | 📈 CGPA | **8.49 / 10.0** |
-  | 💻 Programming | Java • Python • SQL • JavaScript |
-  | ⚙️ Backend | Spring Boot • FastAPI • Flask • REST APIs |
-  | 🧠 AI/ML | OpenCV • Computer Vision • Machine Learning |
-  | 📊 Analytics | Power BI • ETL • DAX • SQL |
-  | 🗄️ Databases | MySQL • PostgreSQL |
-  | 🏗️ Architecture | MVC • OOP • Design Patterns • System Design |
-  | 🚀 Interests | Software Engineering • AI • Backend • Full Stack • Data Analytics |
-</div>
+| Focus Area | Highlights |
+|------------|------------|
+| 🎓 Education | Integrated M.Tech (Computer Science & Engineering), VIT-AP University |
+| 📈 CGPA | **8.49 / 10.0** |
+| 💻 Programming | Java • Python • SQL • JavaScript |
+| ⚙️ Backend | Spring Boot • FastAPI • Flask • REST APIs |
+| 🧠 AI/ML | OpenCV • Computer Vision • Machine Learning |
+| 📊 Analytics | Power BI • ETL • DAX • SQL |
+| 🗄️ Databases | MySQL • PostgreSQL |
+| 🏗️ Architecture | MVC • OOP • Design Patterns • System Design |
+| 🚀 Interests | Software Engineering • Backend • Data Science • Data Analytics |
 
 ---
 
@@ -868,7 +851,7 @@ If you have an exciting project or opportunity, feel free to reach out!
 
 ✔ Machine Learning Integration
 
-✔ Full Stack Development
+✔ Data Science & Predictive Analytics
 
 ✔ Data Analytics & Business Intelligence
 
@@ -917,13 +900,13 @@ flowchart LR
 - Build **15+ production-ready repositories**
 - Maintain consistent GitHub contribution streaks
 - Publish enterprise-grade backend applications
-- Develop scalable AI-powered solutions
+- Develop production-grade backend and data pipelines
 - Contribute to open-source projects
 - Earn AWS & Azure certifications
 - Solve **500+ coding problems**
 - Build a strong Software Engineering portfolio
 - Secure a Software Engineering Internship
-- Transition into a Product-Based Software Engineer role
+- Transition into a Backend Engineer or Data Scientist role
 
 ---
 
